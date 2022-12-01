@@ -1,2 +1,2 @@
-# 1-IT-phyton-
+# PReclík
 Úkoly v python
